@@ -1,4 +1,5 @@
 $(function() {
+        // $('.text-avatar').innerHTML('');
         getUserInfo();
         var layer = layui.layer;
         // 点击按钮实现退出功能
